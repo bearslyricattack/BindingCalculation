@@ -352,7 +352,7 @@ func CalculateClosedBindings(bindingCounts map[string]int, binding []DataStructu
 
 > 青鸟一去 不觉此间 百年悄然
 >
-> 自有白鹿 踏歌如梦来
+> 自有白鹿 踏歌入梦来
 >
 > -- 《万梦星》黄诗扶
 
